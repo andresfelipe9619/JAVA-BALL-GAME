@@ -1,4 +1,4 @@
-# Java Game Ball
+# Java Ball Game 
 Simple Game using threads in java, it consists in a random number of balls bouncing on the screen and you have to stop all of them.
 
 You need to have installed the JDK
